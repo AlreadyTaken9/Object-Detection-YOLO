@@ -7,7 +7,7 @@
 
 <br>
 This project implements an image and video object detection classifier using pretrained yolov3 models. 
-The yolov3 models are taken from the official yolov3 paper which was released in 2018. The yolov3 implementation is from [darkne](https://github.com/pjreddie/darknet). Also, this project implements an option to perform classification real-time using the webcam.
+The yolov3 models are taken from the official yolov3 paper which was released in 2018. The yolov3 implementation is from (https://github.com/AlreadyTaken9/Object-Detection-YOLO). Also, this project implements an option to perform classification real-time using the webcam.
 
 With this model, objects given in the labels list can be recognized.
 
@@ -31,7 +31,7 @@ labels = ["person","bicycle","car","motorcycle","airplane","bus","train","truck"
 1 ) Clone the repository
 
 ```
-git clone https://github.com/mucahitbektas/RealTimeObjectDetection.git
+git clone https://github.com/AlreadyTaken9/Object-Detection-YOLO
 ```
 
 2 ) Move to the directory
@@ -64,20 +64,11 @@ yolo.py --help
 
 # Inference in Real-time
 
-[<img src="res\yolo.jpg">](https://youtu.be/R9NNlvLbGTc)
-<p align="center"><small> Click on the image to play the video on YouTube( https://youtu.be/R9NNlvLbGTc ) </small></p>
+[<img src="res\yolo.jpg">](https://youtu.be/8_ayzLbepI4)
+<p align="center"><small> Click on the image to play the video on YouTube( https://youtu.be/8_ayzLbepI4 ) </small></p>
 
 # References
 
-1) [YOLO: Real-Time Object Detection Official Website](https://pjreddie.com/darknet/yolo//)
+1) [YOLO: Real-Time Object Detection Official Website](https://github.com/AlreadyTaken9/Object-Detection-YOLO)
 
 <br>
-
-# Contact with me:
-<p align="center">
-<a href="mailto:m.bektastr@gmail.com">
-<img src="https://img.shields.io/badge/-m.bektastr%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  
-<a href="https://www.linkedin.com/in/mucahitbektas/"><img src="https://img.shields.io/badge/mucahitbektas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
-<a  href="https://www.instagram.com/mucahitbektas_/"> <img src="https://img.shields.io/badge/@mucahitbektas__-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a  href="https://www.mucahitbektas.com/"><img src="https://img.shields.io/badge/mucahitbektas.com-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
- </p>
